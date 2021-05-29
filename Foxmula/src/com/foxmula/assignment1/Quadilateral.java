@@ -27,16 +27,5 @@ public class Quadilateral
 		this.x4=x4;
 		this.y4=y4;
 	}
-
-
-
-
-
-
-
-
-
-
-	
-	}
+}
 

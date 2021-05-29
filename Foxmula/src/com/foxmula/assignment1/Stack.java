@@ -13,7 +13,7 @@ public class Stack
     }
     
     Node top; 	
-    Node head;
+    
     
    public Stack() 	
     {
